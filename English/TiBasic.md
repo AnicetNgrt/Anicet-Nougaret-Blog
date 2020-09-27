@@ -1,3 +1,4 @@
+*[Back to techs](./Techs.md)*
 # Ti Basic
 
 - [Untitled RPG](./TiRpg.md)
