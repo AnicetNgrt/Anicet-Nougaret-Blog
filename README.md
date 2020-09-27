@@ -1,5 +1,6 @@
-**Welcome to my portfolio!** *Bienvenue dans mon portfolio !*
+# Anicet Nougaret
 
+**Welcome to my portfolio!** *Bienvenue dans mon portfolio !*
 
 Please, follow the links below to navigate. *Veuillez cliquer sur les liens pour parcourir.*
 
