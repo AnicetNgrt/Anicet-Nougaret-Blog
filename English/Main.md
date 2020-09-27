@@ -1,5 +1,5 @@
 # My Portfolio
 - [Timeline](Timeline.md)
-- [Games I've made](Games.md)
-- [Significant programs and libraries I've written](Apps.md)
+- [Games I made](Games.md)
+- [Significant programs and libraries I wrote](Apps.md)
 - [Techs I worked with](Techs.md)
