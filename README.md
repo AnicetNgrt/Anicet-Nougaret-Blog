@@ -1,2 +1,7 @@
-# markdownPortfolio
-My temporary portfolio using github's theme feature. I'll code my own later, but now I need time for other programming projects.
+**Welcome to my portfolio!** *Bienvenue dans mon portfolio !*
+
+
+Please, follow the links below to navigate. *Veuillez cliquer sur les liens pour parcourir.*
+
+- [Portfolio in English](English/Main.md)
+- [Portfolio en français](français/Main.md)
