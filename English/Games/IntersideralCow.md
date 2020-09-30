@@ -18,7 +18,7 @@ I made this using Unreal Engine 4's "no code" blueprints system. Barely knew how
 I got my first experience at working on a project for days without being able to stop. It was truly amazing.
 
 #### Gallery
-![screenshot](../resources/intersideral/6OAfrD.png)
-![screenshot](../resources/intersideral/Cwh65Y.png)
-![screenshot](../resources/intersideral/rf11hQ.png)
-![screenshot](../resources/intersideral/t7zkLV.png)
+![screenshot](../../resources/intersideral/6OAfrD.png)
+![screenshot](../../resources/intersideral/Cwh65Y.png)
+![screenshot](../../resources/intersideral/rf11hQ.png)
+![screenshot](../../resources/intersideral/t7zkLV.png)
