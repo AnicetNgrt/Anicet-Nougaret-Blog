@@ -1,5 +1,15 @@
-## Intersideral Cow
-[Game](./Games.md) | [Unreal Engine 4](./UnrealEngine.md) | [2016](./2016.md) | [Download](https://anicetngrt.itch.io/intersideral-cow)
+# Intersideral Cow
+*Year*: [2016](./2016.md)
+
+*Type*: [Game](./Games.md)
+
+*Status*: Finished & working
+
+*Techs*: [Unreal Engine 4](./UnrealEngine.md)
+
+*Links*: [Download](https://anicetngrt.itch.io/intersideral-cow)
+
+---
 
 My first released game!
 

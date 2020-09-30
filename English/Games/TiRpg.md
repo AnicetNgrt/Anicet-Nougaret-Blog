@@ -1,5 +1,13 @@
 # Untitled TI RPG
-[Game](./Games.md) | [TI BASIC](./TiBasic.md) | [2016](./2016.md)
+*Year*: [2016](../Timeline/2016.md)
+
+*Type*: [Game](./Games.md)
+
+*Status*: Finished & working
+
+*Techs*: [TI BASIC](../Techs/TiBasic.md)
+
+---
 
 My first attempt at making a game with true code! (I did a "no code" game before with Unreal Engine 4)
 

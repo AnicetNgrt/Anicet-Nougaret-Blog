@@ -1,5 +1,13 @@
 # Untitled Ti calculator Rogue-like
-[Game](./Games.md) | [TI BASIC](./TiBasic.md) | [2016](./2016.md)
+*Year*: [2016](./2016.md)
+
+*Type*: [Game](./Games.md)
+
+*Status*: Finished & working
+
+*Techs*: [TI BASIC](./TiBasic.md)
+
+---
 
 A simple text-based rogue-like where you faced random enemies in turn-based battles. Each enemy becoming increasingly stronger.
 
