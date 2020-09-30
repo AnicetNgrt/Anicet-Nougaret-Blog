@@ -1,5 +1,6 @@
-*[Back to table of contents](../Main.md)*
 # Techs I worked with
+*[Back to table of contents](../Main.md)*
 
-- [Unreal Engine 4](../Games/UnrealEngine.md)
-- [TI BASIC](../Games/TiBasic.md)
+- [Javascript](./Javascript.md)
+- [Unreal Engine 4](./UnrealEngine.md)
+- [TI BASIC](./TiBasic.md)

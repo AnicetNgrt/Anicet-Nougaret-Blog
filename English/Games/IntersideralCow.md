@@ -1,11 +1,11 @@
 # Intersideral Cow
-*Year*: [2016](./2016.md)
+*Year*: [2016](../Timeline/2016.md)
 
 *Type*: [Game](./Games.md)
 
 *Status*: Finished & working
 
-*Techs*: [Unreal Engine 4](./UnrealEngine.md)
+*Techs*: [Unreal Engine 4](../Techs/UnrealEngine.md)
 
 *Links*: [Download](https://anicetngrt.itch.io/intersideral-cow)
 

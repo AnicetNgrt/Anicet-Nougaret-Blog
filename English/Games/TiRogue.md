@@ -1,11 +1,11 @@
 # Untitled Ti calculator Rogue-like
-*Year*: [2016](./2016.md)
+*Year*: [2016](../Timeline/2016.md)
 
 *Type*: [Game](./Games.md)
 
 *Status*: Finished & working
 
-*Techs*: [TI BASIC](./TiBasic.md)
+*Techs*: [TI BASIC](../Techs/TiBasic.md)
 
 ---
 

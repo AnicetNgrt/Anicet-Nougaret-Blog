@@ -1,11 +1,11 @@
 # Electronic Apple
-*Year*: [2016](./2016.md)
+*Year*: [2016](../Timeline/2016.md)
 
 *Type*: [Game](./Games.md)
 
 *Status*: Aborted after pre-production
 
-*Techs*: [Unreal Engine 4](./UnrealEngine.md)
+*Techs*: [Unreal Engine 4](../Techs/UnrealEngine.md)
 
 *Links*: [Visuals](https://anicetngrt.itch.io/electronic-apple)
 

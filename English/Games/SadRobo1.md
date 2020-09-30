@@ -1,11 +1,11 @@
 # Sad Robo v1
-*Year*: [2017](./2017.md)
+*Year*: [2017](../Timeline/2017.md)
 
 *Type*: [Game](./Games.md)
 
 *Status*: Finished & working
 
-*Techs*: [Javascript](./Javascript.md)
+*Techs*: [Javascript](../Techs/Javascript.md)
 
 *Links*: [Play](https://anicetngrt.github.io/SadRoboGame/)
 

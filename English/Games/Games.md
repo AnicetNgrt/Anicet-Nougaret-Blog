@@ -1,5 +1,5 @@
-*[Back to table of contents](./Main.md)*
 # Games
+*[Back to table of contents](../Main.md)*
 
 - [Sad robo v2](./SadRobo2.md)
 - [Sad robo v1](./SadRobo1.md)
