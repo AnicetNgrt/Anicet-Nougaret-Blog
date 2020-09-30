@@ -1,7 +1,6 @@
-# Anicet Nougaret
-*[See me with github pages](https://anicetngrt.github.io/My-Markdown-Site/)*
+# Home
 
-**Welcome to my portfolio!** *Bienvenue dans mon portfolio !*
+**Welcome to my blog!** *Bienvenue dans mon blog !*
 
 **Please, follow the links below to navigate.** *Veuillez cliquer sur les liens pour parcourir.*
 
