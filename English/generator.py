@@ -15,7 +15,7 @@ def build_date_text(array):
     return date_text
 
 def year_path(year):
-    return f"../Timeline/{year}.md"
+    return f"[{year}](../Timeline/{year}.md)"
 
 def is_date_empty(array):
     return array[0] == "" and array[1] == "" and array[2] == ""
@@ -24,17 +24,18 @@ print("MD PORTFOLIO FEEDER")
 print("\n")
 
 name = input("Name: ")
+filename = input("Filename: ")
 
 category = input("Category: ")
 
 start_date = ["", "", ""]
-next = next = input("Add a start date? [Y/n]: ")
+next = input("Add a start date? [Y/n]: ")
 if next == "Y":
     start_date_text = input("Start (dd/mm/yyyy): ")
     start_date = start_date_text.split("/")
 
 end_date = ["", "", ""]
-next = next = input("Add an end date? [Y/n]: ")
+next = input("Add an end date? [Y/n]: ")
 if next == "Y":
     end_date_text = input("End (dd/mm/yyyy): ")
     end_date = end_date_text.split("/")
@@ -42,8 +43,8 @@ if next == "Y":
 techs = []
 next = input("Add a tech? [Y/n]: ")
 while(next == "Y"):
-    next = input("Add a tech? [Y/n]: ")
     techs.append(input("Tech name: "))
+    next = input("Add a tech? [Y/n]: ")
 
 status = input("Status: ")
 
@@ -59,19 +60,19 @@ while(next == "Y"):
 if not os.path.exists(f"./{category}"):
     os.mkdir(f"./{category}")
 
-file = open(f"./{category}/{name}.md", "w+")
+file = open(f"./{category}/{filename}.md", "w+")
 file.write(f"# {name}\n")
-if category != "":
-    file.write(f"*Category*: [{category}](./{category}.md)\n\n")
 if not is_date_empty(start_date):
     file.write(f"*Start*: {build_date_text(start_date)}\n\n")
 if not is_date_empty(end_date):
     file.write(f"*End*: {build_date_text(start_date)}\n\n")
+if category != "":
+    file.write(f"*Type*: [{category}](./{category}.md)\n\n")
 if len(techs) > 0:
     file.write("*Techs*: ")
     for tech in techs:
-        if not os.path.exists(f"../Techs/{tech}.md"):
-            category_file = open(f"../Techs/{tech}.md", "w+")
+        if not os.path.exists(f"./Techs/{tech}.md"):
+            category_file = open(f"./Techs/{tech}.md", "w+")
             category_file.close()
         file.write(f"[{tech}](../Techs/{tech}.md) ")
     file.write("\n\n")

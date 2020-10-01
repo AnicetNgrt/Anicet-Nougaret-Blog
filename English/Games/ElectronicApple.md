@@ -3,7 +3,7 @@
 
 *Type*: [Game](./Games.md)
 
-*Status*: Aborted after pre-production
+*Status*: Aborted
 
 *Techs*: [Unreal Engine 4](../Techs/UnrealEngine.md)
 
